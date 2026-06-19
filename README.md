@@ -63,7 +63,6 @@ ip-storyboard-creator/
 - 方向：叙事视角反转（芈姝视角）
 - 时长：4分钟 | 风格：搞笑喜剧
 - 输出：28条分镜数据（7个场景，8种运镜）
-- 技能链接：https://tcndigiwcqob.feishu.cn/base/V8P9bGwYxatflmsmcGRcnqqEnne
 
 ## 许可证
 
